@@ -4,8 +4,6 @@ This is a C++ command-line application that serves as a Basic Inventory System. 
 
 The program allows a user to manage an inventory of items. Users can add new items, remove items, update item quantities, and view the current inventory. It fulfills the additional requirement of reading from and writing to a file (`inventory_data.txt`), ensuring that the inventory state is saved between executions.
 
-[Software Demo Video](https://youtu.be/your-video-link-here)
-
 # Development Environment
 
 *   **Language:** C++ (C++11 or higher)
